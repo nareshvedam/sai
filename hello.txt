@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 heelloooooooerere
 helllo
 changes from master
+=======
+helloooooooo
+hhhhhhh
+rb changes in hello
+RB changes in
+>>>>>>> rb1
